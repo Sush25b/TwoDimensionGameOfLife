@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameOfLifeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-10T05:23:09" hostname="Sushants-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="givenClusterWithAllDead_whenEvolve_thenReturnClusterOFAllDead" classname="GameOfLifeTest" time="0.002"/>
+  <testcase name="givenOneClusterWithThreeAliveAndOneDead_whenEvolve_thenReturnClusterOfAllAlive" classname="GameOfLifeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
