@@ -1,0 +1,8 @@
+.gradle/
+gradle
+.idea
+temp.java
+temp
+build.gradle
+build/
+out/
